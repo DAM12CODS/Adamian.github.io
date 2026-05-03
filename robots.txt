@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://adamian.github.io/portafolio# the base hostname & protocol for your site/portafolio/sitemap.xml
+Sitemap: https://adamian.github.io/sitemap.xml
