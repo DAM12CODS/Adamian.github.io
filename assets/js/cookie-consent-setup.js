@@ -96,7 +96,7 @@ function initializeCookieConsent() {
               },
               {
                 title: 'More information',
-                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://adamian.github.io/portafolio/#contact">contact us</a>.'
+                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://adamian.github.io/portafolio# the base hostname & protocol for your site/portafolio/#contact">contact us</a>.'
               }
             ]
           }
