@@ -7,7 +7,7 @@ first_name: Esteban
 middle_name: Damian
 last_name: Aguilar
 contact_note: >
- Feel free to contact me via email for collaborations or projects.
+  Feel free to contact me via email for collaborations or projects.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description:   Computer Science student interested in software development, databases and web technologies.
+blog_description: Computer Science student interested in software development, databases and web technologies.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
