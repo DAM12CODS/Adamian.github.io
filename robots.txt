@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dam12cods.github.io/Adamian.github.io/sitemap.xml
+Sitemap: https://dam12cods.github.io/sitemap.xml
